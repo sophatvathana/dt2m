@@ -140,37 +140,6 @@ lib_deps =
 
 5. Upload to ESP32
 
-## 📖 Learning Modules
-
-### Module 1: Basic RF Concepts
-- Understanding frequency bands
-- Signal propagation and attenuation
-- Modulation techniques (ASK, FSK, OOK)
-
-### Module 2: Bluetooth Protocol Stack
-- BLE advertising and scanning
-- Connection establishment
-- Service discovery and characteristics
-
-### Module 3: Sub-GHz Communication
-- ISM band regulations
-- Remote control protocols
-- Signal analysis and decoding
-
-### Module 4: Embedded Systems
-- Real-time programming concepts
-- Power optimization techniques
-- Hardware abstraction layers
-
-## 🔬 Research Applications
-
-This platform can be used for:
-- **Wireless security research**
-- **RF protocol analysis**
-- **Signal processing algorithm development**
-- **Embedded systems education**
-- **IoT device testing and validation**
-
 ## 📋 Features
 
 - ✅ **Multi-band RF Analysis** (315MHz - 2.4GHz)
