@@ -118,7 +118,7 @@ Sub-GHz (CC1101):
 ### Installation
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sophatvathana/dt2m.git
 cd dt2m
 ```
 
