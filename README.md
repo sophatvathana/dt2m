@@ -68,31 +68,6 @@ Sub-GHz (CC1101):
 - TX: GPIO 27
 ```
 
-## 📚 Educational Features
-
-### 1. RF Spectrum Analysis
-- **FFT-based spectrum analysis** for understanding frequency domain
-- **Real-time signal visualization** on TFT display
-- **Multi-band scanning** across different frequency ranges
-
-### 2. Bluetooth/BLE Learning
-- **BLE device discovery** and analysis
-- **Bluetooth protocol understanding**
-- **Signal strength measurement**
-- **Connection parameter analysis**
-
-### 3. Sub-GHz Communication
-- **433MHz/315MHz/868MHz/915MHz** band exploration
-- **ASK/OOK modulation** learning
-- **Signal decoding** and analysis
-- **Remote control protocol** understanding
-
-### 4. Embedded Systems Concepts
-- **Power management** and sleep modes
-- **Interrupt-driven programming**
-- **Memory management** and optimization
-- **Real-time task scheduling**
-
 ## 🛠️ Software Architecture
 
 ### Core Modules
