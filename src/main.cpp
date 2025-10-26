@@ -34,7 +34,7 @@
 #include <PCF8574.h>
 #include <nRF24L01.h>
 #include <RF24.h>
-#include "subghz_integration.h"
+#include "subghz.h"
 #include "bluetooth.h"
 
 

@@ -47,7 +47,7 @@ private:
   
   // Current mode
   JammerMode currentJammerMode;
-  const char* jammerModeNames[3] = {"BLE", "Bluetooth", "ALL"};
+  const char* jammerModeNames[3] = {"ALL", "BLE", "Bluetooth"};
   
   // Channel arrays
   static const byte BLE_channels[];
